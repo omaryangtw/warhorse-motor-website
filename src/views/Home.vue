@@ -115,7 +115,14 @@
       </div>
     </nav>
     <div class="container mx-auto flex justify-center my-4">
-      <video id="my-video" preload="true" autoplay loop muted>
+      <video
+        id="my-video"
+        preload="true"
+        autoplay
+        loop
+        muted
+        class="hidden lg:block"
+      >
         >
         <source src="../assets/video.mp4" type="video/mp4" />
 

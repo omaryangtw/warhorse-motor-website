@@ -17,11 +17,14 @@
             因此，打造出一匹足以揚蹄國際間的'台灣之駒'
             信念及專業團隊，於焉結合而生。
           </p>
-          <p class="leading-loose">
-            With pleasure introduce to you ours name call War Horse
+          <p class="leading-loose pt-4">
+            With pleasure introduce to you ours name call
+          </p>
+          <p class="leading-10 font-bold lg:text-2xl py-1">
+            `War Horse Motorcycle Taiwan`
           </p>
           <p class="leading-loose">
-            Motorcycle Taiwan 100% Made In Taiwan Even though 1 tiny bolts
+            100% Made In Taiwan Even though 1 tiny bolts
           </p>
           <p class="leading-loose">CEO Roger Chen</p>
         </div>
